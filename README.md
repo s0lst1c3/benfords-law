@@ -5,7 +5,7 @@ used by the IRS.
 
 Description
 -----------
-This python script uses Benford's Law to determine search for signs of
+This python script uses Benford's Law to search for signs of
 check fraud in a list of account files. To use the script, simply place
 benford.py in a directory with multiple .txt files containing checking
 account numbers, then run the script.
