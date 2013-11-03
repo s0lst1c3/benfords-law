@@ -24,7 +24,7 @@ main(): #\=====================================================================
 	dataFiles = []
 	lForgeryCoefficient = []
 
-	# get the absolute path of main.py
+	# get the absolute path of benford.py
 	whereAmI = os.path.dirname(os.path.abspath(__file__))
 
 	# get the file names within the directory
