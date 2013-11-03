@@ -1,6 +1,6 @@
 ###############################################################################
 # Project:     Benford's Law Fraud Detection Script
-# Author:      Subject Zero
+# Author:      John Ryan
 # Created:     04/11/2013
 # Modififed:   04/23/2013
 # Description:
